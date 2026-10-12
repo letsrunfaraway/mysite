@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-label="IMAGE placeholder">
+  <rect width="1200" height="1200" fill="#ededed"/>
+  <rect x="42.0" y="42.0" width="1116.0" height="1116.0"
+        fill="none" stroke="#dcdcdc" stroke-width="1.5"/>
+  <g transform="translate(600.0,520.2) scale(8.000)" fill="none" stroke="#a8a8a8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-34 16 L-12 -12 L2 6 L12 -6 L34 16 Z"/><circle cx="16" cy="-18" r="6"/></g>
+  <text x="600.0" y="667.2" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="42"
+        letter-spacing="9.2" fill="#a8a8a8">IMAGE</text>
+  <text x="600.0" y="742.8" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="30"
+        letter-spacing="6.7" fill="#a8a8a8">1200 &#215; 1200</text>
+</svg>

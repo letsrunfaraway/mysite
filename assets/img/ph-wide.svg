@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="VIDEO placeholder">
+  <rect width="1920" height="1080" fill="#ededed"/>
+  <rect x="37.8" y="37.8" width="1844.4" height="1004.4"
+        fill="none" stroke="#dcdcdc" stroke-width="1.5"/>
+  <g transform="translate(960.0,468.18) scale(7.200)" fill="none" stroke="#a8a8a8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-34 16 L-12 -12 L2 6 L12 -6 L34 16 Z"/><circle cx="16" cy="-18" r="6"/></g>
+  <text x="960.0" y="600.48" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="38"
+        letter-spacing="8.3" fill="#a8a8a8">VIDEO</text>
+  <text x="960.0" y="668.52" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="27"
+        letter-spacing="6.0" fill="#a8a8a8">1920 &#215; 1080</text>
+</svg>

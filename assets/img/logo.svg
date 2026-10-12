@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Letsrunfaraway logo placeholder">
+  <circle cx="60" cy="60" r="52" fill="none" stroke="#0d0d0d" stroke-width="2"/>
+  <circle cx="60" cy="60" r="41" fill="none" stroke="#0d0d0d" stroke-width="0.8" opacity="0.45"/>
+  <path d="M60 19 L68 52 L60 60 L52 52 Z" fill="#0d0d0d"/>
+  <path d="M60 101 L52 68 L60 60 L68 68 Z" fill="#0d0d0d" opacity="0.35"/>
+  <path d="M19 60 L52 52 L60 60 L52 68 Z" fill="#0d0d0d" opacity="0.6"/>
+  <path d="M101 60 L68 68 L60 60 L68 52 Z" fill="#0d0d0d" opacity="0.6"/>
+  <circle cx="60" cy="60" r="3.4" fill="#0d0d0d"/>
+</svg>
